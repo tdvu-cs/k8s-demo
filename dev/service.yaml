@@ -9,4 +9,4 @@ spec:
   - port: 7071
     protocol: TCP
     targetPort: 7071
-  
+    nodePort: 30101
